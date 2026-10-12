@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, BLD. 21 DECEMBRIE 1989, NR.77, CLĂDIREA A-B. THE OFFICE. CAMERA 3.1, ET.3 |
 | Website | [https://yardiromania.ro](https://yardiromania.ro) |
 | Careers | [https://yardiromania.breezy.hr](https://yardiromania.breezy.hr) |
-| Last Scraped | 2026-10-11 |
+| Last Scraped | 2026-10-12 |
 
-## Current Job Listings (7)
+## Current Job Listings (8)
 
-_Generated: 2026-10-11T11:56:33.731Z_
+_Generated: 2026-10-12T14:07:56.951Z_
 
 ### Associate Researcher (Yardi Matrix)
 
@@ -59,6 +59,14 @@ _Generated: 2026-10-11T11:56:33.731Z_
 ### Senior Software Development Engineer (Mobile)
 
 - **URL:** [https://yardiromania.breezy.hr/p/a4f165406dc201-senior-software-development-engineer-mobile](https://yardiromania.breezy.hr/p/a4f165406dc201-senior-software-development-engineer-mobile)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** programming
+- **Status:** scraped
+
+### Software Development Engineer II (.NET)
+
+- **URL:** [https://yardiromania.breezy.hr/p/b8bddeaaff1201-software-development-engineer-ii-net](https://yardiromania.breezy.hr/p/b8bddeaaff1201-software-development-engineer-ii-net)
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** programming
