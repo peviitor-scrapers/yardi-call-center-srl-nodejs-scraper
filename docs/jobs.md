@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, BLD. 21 DECEMBRIE 1989, NR.77, CLĂDIREA A-B. THE OFFICE. CAMERA 3.1, ET.3 |
 | Website | [https://yardiromania.ro](https://yardiromania.ro) |
 | Careers | [https://yardiromania.breezy.hr](https://yardiromania.breezy.hr) |
-| Last Scraped | 2026-10-14 |
+| Last Scraped | 2026-10-15 |
 
-## Current Job Listings (8)
+## Current Job Listings (10)
 
-_Generated: 2026-10-14T10:59:38.592Z_
+_Generated: 2026-10-15T10:41:46.887Z_
 
 ### Associate Researcher (Yardi Matrix)
 
@@ -30,6 +30,14 @@ _Generated: 2026-10-14T10:59:38.592Z_
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Tags:** marketing
+- **Status:** scraped
+
+### Quality Assurance Engineer (Manual Testing)
+
+- **URL:** [https://yardiromania.breezy.hr/p/e238a5bf7c5a01-quality-assurance-engineer-manual-testing](https://yardiromania.breezy.hr/p/e238a5bf7c5a01-quality-assurance-engineer-manual-testing)
+- **Work Mode:** on-site
+- **Location:** Cluj-Napoca
+- **Tags:** global solutions
 - **Status:** scraped
 
 ### SEO Engineer II (WeWork)
@@ -70,6 +78,14 @@ _Generated: 2026-10-14T10:59:38.592Z_
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** programming
+- **Status:** scraped
+
+### Technical Analyst (Database Performance)
+
+- **URL:** [https://yardiromania.breezy.hr/p/f9844f7edeaf01-technical-analyst-database-performance](https://yardiromania.breezy.hr/p/f9844f7edeaf01-technical-analyst-database-performance)
+- **Work Mode:** on-site
+- **Location:** Cluj-Napoca
+- **Tags:** client support and consultancy
 - **Status:** scraped
 
 ### Technical Analyst – AI Workflow Automation
