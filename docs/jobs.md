@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, BLD. 21 DECEMBRIE 1989, NR.77, CLĂDIREA A-B. THE OFFICE. CAMERA 3.1, ET.3 |
 | Website | [https://yardiromania.ro](https://yardiromania.ro) |
 | Careers | [https://yardiromania.breezy.hr](https://yardiromania.breezy.hr) |
-| Last Scraped | 2026-10-18 |
+| Last Scraped | 2026-10-19 |
 
-## Current Job Listings (10)
+## Current Job Listings (9)
 
-_Generated: 2026-10-18T10:12:48.952Z_
+_Generated: 2026-10-19T11:48:45.171Z_
 
 ### Associate Researcher (Yardi Matrix)
 
@@ -30,14 +30,6 @@ _Generated: 2026-10-18T10:12:48.952Z_
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Tags:** marketing
-- **Status:** scraped
-
-### Quality Assurance Engineer (Manual Testing)
-
-- **URL:** [https://yardiromania.breezy.hr/p/e238a5bf7c5a01-quality-assurance-engineer-manual-testing](https://yardiromania.breezy.hr/p/e238a5bf7c5a01-quality-assurance-engineer-manual-testing)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Tags:** global solutions
 - **Status:** scraped
 
 ### SEO Engineer II (WeWork)
