@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, BLD. 21 DECEMBRIE 1989, NR.77, CLĂDIREA A-B. THE OFFICE. CAMERA 3.1, ET.3 |
 | Website | [https://yardiromania.ro](https://yardiromania.ro) |
 | Careers | [https://yardiromania.breezy.hr](https://yardiromania.breezy.hr) |
-| Last Scraped | 2026-10-25 |
+| Last Scraped | 2026-10-26 |
 
-## Current Job Listings (11)
+## Current Job Listings (12)
 
-_Generated: 2026-10-25T10:31:30.031Z_
+_Generated: 2026-10-26T12:05:19.651Z_
 
 ### Associate Editor
 
@@ -22,6 +22,14 @@ _Generated: 2026-10-25T10:31:30.031Z_
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Tags:** marketing
+- **Status:** scraped
+
+### Associate Researcher (Commercial)
+
+- **URL:** [https://yardiromania.breezy.hr/p/0a9be138d54801-associate-researcher-commercial](https://yardiromania.breezy.hr/p/0a9be138d54801-associate-researcher-commercial)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** commercialedge
 - **Status:** scraped
 
 ### Associate Researcher (Yardi Matrix)
