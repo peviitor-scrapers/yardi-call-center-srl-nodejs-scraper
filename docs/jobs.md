@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, BLD. 21 DECEMBRIE 1989, NR.77, CLĂDIREA A-B. THE OFFICE. CAMERA 3.1, ET.3 |
 | Website | [https://yardiromania.ro](https://yardiromania.ro) |
 | Careers | [https://yardiromania.breezy.hr](https://yardiromania.breezy.hr) |
-| Last Scraped | 2026-10-26 |
+| Last Scraped | 2026-10-27 |
 
-## Current Job Listings (12)
+## Current Job Listings (11)
 
-_Generated: 2026-10-26T12:05:19.651Z_
+_Generated: 2026-10-27T11:24:16.061Z_
 
 ### Associate Editor
 
@@ -94,14 +94,6 @@ _Generated: 2026-10-26T12:05:19.651Z_
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** programming
-- **Status:** scraped
-
-### Technical Analyst (Database Performance)
-
-- **URL:** [https://yardiromania.breezy.hr/p/f9844f7edeaf01-technical-analyst-database-performance](https://yardiromania.breezy.hr/p/f9844f7edeaf01-technical-analyst-database-performance)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Tags:** client support and consultancy
 - **Status:** scraped
 
 ### Technical Analyst – AI Workflow Automation
