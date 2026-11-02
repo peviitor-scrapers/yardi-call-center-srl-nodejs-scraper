@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, BLD. 21 DECEMBRIE 1989, NR.77, CLĂDIREA A-B. THE OFFICE. CAMERA 3.1, ET.3 |
 | Website | [https://yardiromania.ro](https://yardiromania.ro) |
 | Careers | [https://yardiromania.breezy.hr](https://yardiromania.breezy.hr) |
-| Last Scraped | 2026-11-01 |
+| Last Scraped | 2026-11-02 |
 
 ## Current Job Listings (10)
 
-_Generated: 2026-11-01T12:29:52.094Z_
+_Generated: 2026-11-02T14:29:31.862Z_
 
 ### Associate Researcher (Yardi Matrix)
 
