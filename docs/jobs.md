@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, BLD. 21 DECEMBRIE 1989, NR.77, CLĂDIREA A-B. THE OFFICE. CAMERA 3.1, ET.3 |
 | Website | [https://yardiromania.ro](https://yardiromania.ro) |
 | Careers | [https://yardiromania.breezy.hr](https://yardiromania.breezy.hr) |
-| Last Scraped | 2026-11-05 |
+| Last Scraped | 2026-11-06 |
 
-## Current Job Listings (11)
+## Current Job Listings (10)
 
-_Generated: 2026-11-05T13:50:32.086Z_
+_Generated: 2026-11-06T13:35:17.449Z_
 
 ### Associate Researcher (Yardi Matrix)
 
@@ -46,14 +46,6 @@ _Generated: 2026-11-05T13:50:32.086Z_
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Tags:** marketing
-- **Status:** scraped
-
-### Senior .Net Software Engineer
-
-- **URL:** [https://yardiromania.breezy.hr/p/eec3bb5d878001-senior-net-software-engineer](https://yardiromania.breezy.hr/p/eec3bb5d878001-senior-net-software-engineer)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Tags:** programming
 - **Status:** scraped
 
 ### Senior Graphic Designer – Multimedia Designer
