@@ -10,19 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, BLD. 21 DECEMBRIE 1989, NR.77, CLĂDIREA A-B. THE OFFICE. CAMERA 3.1, ET.3 |
 | Website | [https://yardiromania.ro](https://yardiromania.ro) |
 | Careers | [https://yardiromania.breezy.hr](https://yardiromania.breezy.hr) |
-| Last Scraped | 2026-11-08 |
+| Last Scraped | 2026-11-09 |
 
-## Current Job Listings (10)
+## Current Job Listings (9)
 
-_Generated: 2026-11-08T12:36:08.801Z_
-
-### Associate Researcher (Yardi Matrix)
-
-- **URL:** [https://yardiromania.breezy.hr/p/e6e1869a089f01-associate-researcher-yardi-matrix](https://yardiromania.breezy.hr/p/e6e1869a089f01-associate-researcher-yardi-matrix)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Tags:** matrix
-- **Status:** scraped
+_Generated: 2026-11-09T14:53:46.149Z_
 
 ### Marketing Analyst II – Digital & Performance Analytics
 
