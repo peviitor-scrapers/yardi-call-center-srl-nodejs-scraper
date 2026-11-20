@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, BLD. 21 DECEMBRIE 1989, NR.77, CLĂDIREA A-B. THE OFFICE. CAMERA 3.1, ET.3 |
 | Website | [https://yardiromania.ro](https://yardiromania.ro) |
 | Careers | [https://yardiromania.breezy.hr](https://yardiromania.breezy.hr) |
-| Last Scraped | 2026-11-19 |
+| Last Scraped | 2026-11-20 |
 
 ## Current Job Listings (8)
 
-_Generated: 2026-11-19T15:01:58.496Z_
+_Generated: 2026-11-20T14:44:42.947Z_
 
 ### Marketing Analyst II – Digital & Performance Analytics
 
@@ -56,6 +56,13 @@ _Generated: 2026-11-19T15:01:58.496Z_
 - **Tags:** marketing
 - **Status:** scraped
 
+### Senior System Reliability Engineer
+
+- **URL:** [https://yardiromania.breezy.hr/p/94e1e2b1527601-senior-system-reliability-engineer](https://yardiromania.breezy.hr/p/94e1e2b1527601-senior-system-reliability-engineer)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Status:** scraped
+
 ### Software Development Engineer II (.NET)
 
 - **URL:** [https://yardiromania.breezy.hr/p/b8bddeaaff1201-software-development-engineer-ii-net](https://yardiromania.breezy.hr/p/b8bddeaaff1201-software-development-engineer-ii-net)
@@ -70,12 +77,4 @@ _Generated: 2026-11-19T15:01:58.496Z_
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** programming
-- **Status:** scraped
-
-### Technical Analyst – AI Workflow Automation
-
-- **URL:** [https://yardiromania.breezy.hr/p/021230d1002b01-technical-analyst-ai-workflow-automation](https://yardiromania.breezy.hr/p/021230d1002b01-technical-analyst-ai-workflow-automation)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Tags:** marketing
 - **Status:** scraped
