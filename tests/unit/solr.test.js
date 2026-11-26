@@ -74,6 +74,15 @@ describe('solr.js', () => {
       expect(calledUrl).toContain('cif=00000123');
     });
 
+    it('should treat 404 "No jobs for CIF" as an empty result', async () => {
+      mockFetch.mockResolvedValue(makeErrorResponse(404, '{"error":"No jobs for CIF 32509291","code":404}'));
+
+      const result = await solr.querySOLR('32509291');
+
+      expect(result.numFound).toBe(0);
+      expect(result.docs).toEqual([]);
+    });
+
     it('should throw on HTTP error', async () => {
       mockFetch.mockResolvedValue(makeErrorResponse(500, 'Internal Server Error'));
 
